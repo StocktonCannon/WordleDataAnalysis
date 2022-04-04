@@ -16,9 +16,9 @@ This data set holds all the valid guesses in the wordle game and all the valid s
 
 # Development Environment
 
-VS Code
-Python Language
-CSV Library
+* VS Code
+* Python Language
+* CSV Library
 
 
 # Useful Websites
