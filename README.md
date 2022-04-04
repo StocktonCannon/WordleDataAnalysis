@@ -10,9 +10,9 @@ This data set holds all the valid guesses in the wordle game and all the valid s
 
 # Data Analysis Results
 
-What are some of the best starting guesses in wordle? tares, chino
-Which letters are used most? e - 1233 , a - 979, t-729, s-669, r-899, o-754, l-719, 
-On average what is the least amount of guesses I can use to get my answer? Out of about a 100 games, i got an average of about 3.7 guesses
+* What are some of the best starting guesses in wordle? tares, chino
+* Which letters are used most? e - 1233 , a - 979, t-729, s-669, r-899, o-754, l-719, 
+* On average what is the least amount of guesses I can use to get my answer? Out of about a 100 games, i got an average of about 3.7 guesses
 
 # Development Environment
 
