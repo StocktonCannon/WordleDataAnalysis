@@ -4,7 +4,6 @@
 This project contains various files used in manipulating, organizing, and displaying a wordle data set found on kaggle.com.  [Kaggle-data](https://www.kaggle.com/datasets/bcruise/wordle-valid-words)
 This data set holds all the valid guesses in the wordle game and all the valid solutions.  Our main purpose is to find a more optimal way to beat wordle in less guesses.  This is done by finding the most common letters used in wordle, the most common letter positions, and allowing us to input our current game state to get a list of remaining posibilities.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
 [Software Demo Video](https://www.youtube.com/watch?v=iPTvy4AFEok)
 
